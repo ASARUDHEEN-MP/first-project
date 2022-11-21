@@ -1,0 +1,324 @@
+
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.top-bar{
+    background-color:rgb(194, 194, 209);
+    height:70px;
+    position: fixed;
+    width: 100%;
+    
+    
+
+}
+
+.logo1{
+    width: 77px;
+    margin-top: 10px;
+    float: left;
+    padding-left: 31px;
+
+  
+
+}
+.box{
+    width: 349px;
+    height: 45px;
+
+}
+.searchbox{
+   
+
+    float: left;
+    width: 228px;
+    height: 42px;
+    margin: 9px;
+    background-color: rgb(253, 254, 255);
+    border:1px solid black; 
+    border-radius: 5px;
+    display:grid;
+}
+.srchlogo{
+    width: 22px;
+    margin-top: 12px;
+    float:left;
+    margin-left:10px;
+    
+
+
+}
+.lang{
+    margin-left: 41px;
+    font-family: Roboto,Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    margin-top: -7px;
+
+}
+.scnd{
+     
+     width: 597px;
+    height: 38px;
+    margin: 10px;
+    border:2px solid black;
+    padding-left: 30px;
+    font-size: 20PX;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.searchscnd{
+    
+    background-color: black;
+    width: 44px;
+    height: 40px;
+    margin: 10px;
+
+}
+.scndmain{
+    width: 628px;
+    height: 30px;
+    float: left;
+    border-radius: 10px;
+}
+
+.scndsrch{
+   
+    width: 228px;
+    height: 30px;
+}
+.colorbx{
+    float: left;
+    background-color:black;
+    margin: 10px;
+    height: 44px;
+    width: 38px;
+}
+.ENGLISH{
+   
+   
+    display: flex;
+   
+    
+}
+.flan{
+    font-family: Roboto,Arial,Helvetica,sans-serif;
+    font-size:16px;
+    margin: 25px;
+    
+}
+.secndtopbar{
+    width: 100%;
+    height: 40px;
+    background-color:white;
+    border: 1px double black;
+    
+}
+.imgs{
+    margin-left: -206px;
+    height: 119px;
+    width: 135%;
+}
+.topslbx{
+    height: 342px;
+    width: 88%;
+    background-color: #ebeeef;
+    border-radius: 10px;
+    margin: 1%;
+    margin-left: 6%;
+    
+    
+}
+.topfbx{
+    
+    width:100%;
+    float: left;
+    height: 42px;
+    
+
+    
+}
+.based{
+    margin: 9px;
+    padding-left: 10px;
+
+    
+}
+.linkf{
+    color: black;
+    padding-left: 70%;
+    font-size: 20px;
+}
+.carbx{
+    background-color:white;
+    width: 23.5%;
+    height: 257px;
+    margin-left: 13px;
+    margin-top: 50;
+    float: left;
+    border: 1px solid black;
+    
+}
+.carf{
+    height: 145px;
+    width: 86%;
+    padding-left: 25px;
+    margin-top: 5px;
+}
+.yellow{
+    background-color:#ffce32;
+    height: 103px;
+    width: 5%;
+   
+    
+}
+.yw{
+    height: 103px;
+    width: 990%;
+    background-color: white;
+    margin-left: 7px;
+    
+   
+}
+.rupeef{
+    padding-top: 10%;
+    padding-left: 13%;
+    color: rgb(0, 47, 52);
+    font-size: 27px;
+}
+.p{
+    padding-left: 12%;
+    padding-top: -20%;
+
+}
+.hero{
+   padding-top: 8%;
+}
+.cat{
+    font-size: 20px;
+    
+}
+.catt{
+    padding-top: 6px;
+    padding-left: 14px;
+    float: left;
+    width: 13%;
+}
+.arrow{
+    height: 10px;
+    
+    
+    
+}
+.arrow1{
+    height: 20px;
+    width: 20px;
+    margin-left: -50px;
+  margin-top: 8px;
+
+}
+.motorcycle{
+    text-transform: capitalize;
+    
+    font-size: 17px;
+    color: rgb(0, 47, 52);
+    text-decoration: none;
+    margin-left: 15px;
+
+}
+.scndiv{
+    background-color:white;
+    width: 100%;
+    height: 650px;
+}
+.sc{
+    
+    height: 265px;
+    width: 85%;
+    background-color:white;
+    border-radius: 10px;
+    margin: 2%;
+    margin-left: 6%;
+   padding: 20px;
+}
+.btnc{
+    width: 10%;
+    height: 40px;
+    margin-left: 50%;
+    border: 2px solid black;
+    
+}
+
+
+.imagewh{
+    width: 100%;
+    margin-top: 70px;
+    
+}
+.bttn{
+    padding-top: 40px;
+}
+.grey{
+    background: #ebeeef;
+    height: 229px;
+    margin: -11px;
+    display: flex;
+}
+.green{
+    background: #002f34;
+    height: 60px;
+    display: flex;
+}
+.smallbx{
+    width: 20%;
+    height: 222px;
+   
+}
+.ml{
+    padding-left: 40px;
+    
+}
+.m2{
+    font-size:20PX;
+}
+.m3{
+    font-size:10;
+}
+.m6{
+    padding-left: 40px;
+    
+}
+.m5{
+    padding-top: 2%;
+}
+.m7{
+    margin-left: 45px;
+    margin-top: 2px;
+}
+.play{
+    width: 40%;
+    height: 44px;
+}
+.divply{
+    margin-top: 48px;
+}
+.pak{
+    padding-left: 42px;
+    padding-top: 12px;
+    color: #ebeeef;
+}
+.all{
+
+    padding-left:53%;
+    padding-top: 12px;
+    
+
+}
+.pa{
+    color: white;
+}
+.bar{
+    width: 2%;
+    height: 5px;
+}
+.location{
+  margin-left: 100px;
+}
